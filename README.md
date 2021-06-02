@@ -1,2 +1,2 @@
 # git-exercise
-Hi everyone!
+Hi ladies and gentlemans...
